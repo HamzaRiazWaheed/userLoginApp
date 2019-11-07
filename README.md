@@ -6,11 +6,12 @@ email : test@test.com
 password: string
 
 ### Run Project:
-    npm run install - installs dependencies
- - Dev Env
-    npm run serve - runs at localhost:8080
- - Build
-    npm run build - build and files under /dist folder.
+ - install dependencies   
+   `npm run install` 
+ - Dev Env - localhost:8080
+   `npm run serve` 
+ - Build - builds the project under /dist folder.
+   `npm run build`
     
 -----
 ### TO DO's:
