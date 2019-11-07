@@ -9,9 +9,9 @@ password: string
  - install dependencies   
    `npm run install` 
  - Dev Env - localhost:8080
-   `npm run serve` 
+    `npm run serve` 
  - Build - builds the project under /dist folder.
-   `npm run build`
+    `npm run build`
     
 -----
 ### TO DO's:
