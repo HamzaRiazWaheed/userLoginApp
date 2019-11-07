@@ -25,5 +25,5 @@ password: string
 
 -----
 ### NOTE:
-- I had this repo before for personal projects, due to lack of time I decided to revamp this (wasn't a very efficient idea) so you could see some old code that isn't related to this project.
-- I copied the header navigation styles can HTML from the HBL page and Patched them together. (Sounds cheap, but hey this means I can implement mockups pretty well (*_^))
+- I had this repo for personal project, due to lack of time I decided to revamp this (wasn't a very efficient idea) so you might see some old code that isn't related to this project.
+- I copied the header navigation HTML and some styles from the HBL page and Patched them together. (Sounds cheap, but hey this means I can implement mockups pretty well (*_^))
